@@ -1,0 +1,1 @@
+An order book tracks all outstanding buy (bid) and sell (ask) orders for a financial instrument. It's organized by price levels, where each level aggregates all orders at the same price. All operations are constant time.
